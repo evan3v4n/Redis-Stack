@@ -36,13 +36,8 @@ Follow these steps to set up your environment variables:
 
 ### Accessing Environment Variables in Your Application
 
-In your Next.js application, you can access these environment variables using `process.env`. For example:
+After making the .env.local file, the inputs should automatically be used
 
-```javascript
-const redisHost = process.env.REDIS_HOST;
-const redisPort = process.env.REDIS_PORT;
-const redisPassword = process.env.REDIS_PASSWORD;
-```
 
 ### Running the Application
 
