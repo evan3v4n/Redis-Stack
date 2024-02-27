@@ -1,0 +1,53 @@
+{
+  "node": {
+    "3fdccca493d1b8e35f3a2d12e814a298b402e7a1": {
+      "workers": {
+        "app/products/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cevan1%5C%5COneDrive%5C%5CDocuments%5C%5CGitHub%5C%5CRedis-Stack%5C%5Csrc%5C%5Capp%5C%5C_actions%5C%5Cproducts.js%22%2C%5B%22createProduct%22%2C%22updateProduct%22%2C%22deleteProduct%22%2C%22searchProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cevan1%5C%5COneDrive%5C%5CDocuments%5C%5CGitHub%5C%5CRedis-Stack%5C%5Csrc%5C%5Capp%5C%5C_actions%5C%5Cproducts.js%22%2C%5B%22createProduct%22%2C%22updateProduct%22%2C%22deleteProduct%22%2C%22searchProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/products/search/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cevan1%5C%5COneDrive%5C%5CDocuments%5C%5CGitHub%5C%5CRedis-Stack%5C%5Csrc%5C%5Capp%5C%5C_actions%5C%5Cproducts.js%22%2C%5B%22createProduct%22%2C%22updateProduct%22%2C%22deleteProduct%22%2C%22searchProducts%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/products/create/page": "rsc",
+        "app/products/[id]/page": "rsc",
+        "app/products/search/page": "actionBrowser"
+      }
+    },
+    "dc2caa7bbb11080eb224f3dfe49698b49503c6ad": {
+      "workers": {
+        "app/products/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cevan1%5C%5COneDrive%5C%5CDocuments%5C%5CGitHub%5C%5CRedis-Stack%5C%5Csrc%5C%5Capp%5C%5C_actions%5C%5Cproducts.js%22%2C%5B%22createProduct%22%2C%22updateProduct%22%2C%22deleteProduct%22%2C%22searchProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cevan1%5C%5COneDrive%5C%5CDocuments%5C%5CGitHub%5C%5CRedis-Stack%5C%5Csrc%5C%5Capp%5C%5C_actions%5C%5Cproducts.js%22%2C%5B%22createProduct%22%2C%22updateProduct%22%2C%22deleteProduct%22%2C%22searchProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/products/search/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cevan1%5C%5COneDrive%5C%5CDocuments%5C%5CGitHub%5C%5CRedis-Stack%5C%5Csrc%5C%5Capp%5C%5C_actions%5C%5Cproducts.js%22%2C%5B%22createProduct%22%2C%22updateProduct%22%2C%22deleteProduct%22%2C%22searchProducts%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/products/create/page": "rsc",
+        "app/products/[id]/page": "rsc",
+        "app/products/search/page": "actionBrowser"
+      }
+    },
+    "bf30605c02007d630860ea8540726a673c015205": {
+      "workers": {
+        "app/products/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cevan1%5C%5COneDrive%5C%5CDocuments%5C%5CGitHub%5C%5CRedis-Stack%5C%5Csrc%5C%5Capp%5C%5C_actions%5C%5Cproducts.js%22%2C%5B%22createProduct%22%2C%22updateProduct%22%2C%22deleteProduct%22%2C%22searchProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cevan1%5C%5COneDrive%5C%5CDocuments%5C%5CGitHub%5C%5CRedis-Stack%5C%5Csrc%5C%5Capp%5C%5C_actions%5C%5Cproducts.js%22%2C%5B%22createProduct%22%2C%22updateProduct%22%2C%22deleteProduct%22%2C%22searchProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/products/search/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cevan1%5C%5COneDrive%5C%5CDocuments%5C%5CGitHub%5C%5CRedis-Stack%5C%5Csrc%5C%5Capp%5C%5C_actions%5C%5Cproducts.js%22%2C%5B%22createProduct%22%2C%22updateProduct%22%2C%22deleteProduct%22%2C%22searchProducts%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/products/create/page": "rsc",
+        "app/products/[id]/page": "rsc",
+        "app/products/search/page": "actionBrowser"
+      }
+    },
+    "2f7234781dfb01db152480361e068fb2bb1df6c8": {
+      "workers": {
+        "app/products/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cevan1%5C%5COneDrive%5C%5CDocuments%5C%5CGitHub%5C%5CRedis-Stack%5C%5Csrc%5C%5Capp%5C%5C_actions%5C%5Cproducts.js%22%2C%5B%22createProduct%22%2C%22updateProduct%22%2C%22deleteProduct%22%2C%22searchProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cevan1%5C%5COneDrive%5C%5CDocuments%5C%5CGitHub%5C%5CRedis-Stack%5C%5Csrc%5C%5Capp%5C%5C_actions%5C%5Cproducts.js%22%2C%5B%22createProduct%22%2C%22updateProduct%22%2C%22deleteProduct%22%2C%22searchProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/products/search/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cevan1%5C%5COneDrive%5C%5CDocuments%5C%5CGitHub%5C%5CRedis-Stack%5C%5Csrc%5C%5Capp%5C%5C_actions%5C%5Cproducts.js%22%2C%5B%22createProduct%22%2C%22updateProduct%22%2C%22deleteProduct%22%2C%22searchProducts%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/products/create/page": "rsc",
+        "app/products/[id]/page": "rsc",
+        "app/products/search/page": "actionBrowser"
+      }
+    }
+  },
+  "edge": {}
+}

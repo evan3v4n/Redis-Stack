@@ -1,0 +1,1 @@
+{"kind":"FETCH","data":{"headers":{"cache-control":"no-store, must-revalidate","connection":"close","content-type":"text/x-component","date":"Tue, 27 Feb 2024 05:35:02 GMT","vary":"RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url","x-powered-by":"Next.js"},"body":"","status":200,"tags":["/products/[id]/page"],"url":"http://[::1]:57746/products"},"revalidate":31536000}
